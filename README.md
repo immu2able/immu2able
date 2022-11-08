@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kumar (@immu2able)
-- 👀 I’m interested in Infrastructure, Cloud tech
+- 👀 I’m interested in Infrastructure, Cloud, HPC tech
 - 🌱 I’m currently learning Go, Rust, WASM, Kubernetes
 - 💞️ I’m looking to collaborate on Kubernetes, Cloud native tech
 - 📫 How to reach me -> @coolmu2
